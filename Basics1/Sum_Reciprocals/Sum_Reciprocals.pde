@@ -18,3 +18,11 @@ void setup(){
  diff=sum1-sum2;
  println("difference=",diff);
 }
+
+/*Output
+sum(1/1 to 1/100)= 5.187378
+sum(1/100 to 1/1)= 5.187377
+difference= 9.536743E-7
+
+When the way of adding the reciprocal changes the output changes little bit which is shown by the difference
+*/
