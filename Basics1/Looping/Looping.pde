@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 /*Ashutosh Gajankush
 */
 void setup(){
@@ -22,4 +22,3 @@ void setup(){
   print(int(pow(2,j)), "");
  }
 }
->>>>>>> b0a0521a3e751352ddd150fadb225bd1998afcc4
