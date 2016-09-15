@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 /*Ashutosh Gajankush
 */
@@ -29,4 +29,3 @@ void draw(){
    }
   }
 }
->>>>>>> b0a0521a3e751352ddd150fadb225bd1998afcc4

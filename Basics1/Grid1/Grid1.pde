@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 /*Ashutosh Gajankush*/
 
@@ -48,4 +47,3 @@ void mousePressed() {
     value = 4;
   }
 }
->>>>>>> b0a0521a3e751352ddd150fadb225bd1998afcc4

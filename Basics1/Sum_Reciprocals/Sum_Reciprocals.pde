@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 /*Ashutosh Gajankush
  */
 
@@ -55,4 +55,3 @@ difference= 9.536743E-7
 
 When the way of adding the reciprocal changes the output changes little bit which is shown by the difference
 */
->>>>>>> b0a0521a3e751352ddd150fadb225bd1998afcc4
