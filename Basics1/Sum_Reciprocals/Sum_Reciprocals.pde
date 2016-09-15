@@ -1,5 +1,4 @@
-/*Ashutosh Gajankush
-Student Id: 10405771 */
+/*Ashutosh Gajankush*/
 
 void setup(){
  float sum1=0.0;
