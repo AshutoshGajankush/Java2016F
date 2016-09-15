@@ -1,5 +1,4 @@
 /*Ashutosh Gajankush
-Student id: 10405771
 */
 void setup(){
  for (int i=0;i<50;i++){

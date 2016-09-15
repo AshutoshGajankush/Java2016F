@@ -1,6 +1,6 @@
 
 /*Ashutosh Gajankush
-Stevens id: 10405771*/
+*/
 
 void setup() {
   size(800,800);
